@@ -1,0 +1,12 @@
+{
+    "pip-updater.AutoUpdate": true,
+    "pip-updater.PackagesAndVersions": [
+        {
+            "packageName": "numpy"
+        },
+        {
+            "packageName": "matplotlib",
+            "version": "latest"
+        }
+    ]
+}
